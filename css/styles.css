@@ -92,7 +92,7 @@ body {
 /* Landing Section */
 .landing { 
     margin-top: 105px;
-    background-image: url(img/home_banner_1.png);
+    background-image: url("jollidupe\img\home_banner_1.png");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
